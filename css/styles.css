@@ -119,10 +119,9 @@ body {
   top: 5px;
 }
 
-/*
-.box-three label::after{
-/*   top: 3px; */
-/*left: 5px;
+.box-three label::after {
+  /*   top: 3px; */
+  /*left: 5px;
 }
 
 .box-one input[type="checkbox"]#checkbox-one+label::after {
@@ -152,8 +151,8 @@ body {
 /* .checkbox-one input[type="checkbox"]:focus + label::before {
   outline: pink auto 2px;
 } */
-/* css for the graphics */
-/*
+  /* css for the graphics */
+  /*
 .heart {
   display: flex;
 }
