@@ -66,14 +66,13 @@ body {
 }
 
 /* css for checkboxes */
-/*
 .box-one input[type="checkbox"],
 .box-two input[type="checkbox"],
-.box-three input[type="checkbox"]{
+.box-three input[type="checkbox"] {
   opacity: 0;
 }
 
-.box-one label::before,
+/*.box-one label::before,
 .box-two label::before,
 .box-three label::before{
   content: "";
