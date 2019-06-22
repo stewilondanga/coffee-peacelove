@@ -81,14 +81,14 @@ body {
   width: 45px;
 }
 
-/*.box-one label::after{
-  content:"love";
+.box-one label::after {
+  content: "love";
   display: inline-block;
   height: 40px;
   width: 50px;
 }
 
-.box-two label::after{
+/*.box-two label::after{
   content:"peace";
   display: inline-block;
   height: 40px;
