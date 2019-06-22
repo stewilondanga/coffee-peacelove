@@ -256,7 +256,7 @@ body {
   border-top-right-radius: 2px;
 }
 
-/*.coffee {
+.coffee {
   position: relative;
   height: 37px;
   width: 33px;
@@ -270,7 +270,7 @@ body {
   animation: fill 7s infinite linear;
 }
 
-@keyframes fill {
+/*@keyframes fill {
   from {
     bottom: 0;
     height: 0;
