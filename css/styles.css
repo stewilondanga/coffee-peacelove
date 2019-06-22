@@ -101,16 +101,16 @@ body {
   position: relative;
 }
 
-/*.box-one label::before,
+.box-one label::before,
 .box-one label::after,
 .box-two label::before,
 .box-two label::after,
 .box-three label::before,
-.box-three label::after{
+.box-three label::after {
   position: absolute;
 }
 
-.box-one label::after{
+/*.box-one label::after{
   top: 3px;
   left: 2px;
 }
