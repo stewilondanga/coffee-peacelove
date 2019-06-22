@@ -178,7 +178,7 @@ body {
   border-bottom-right-radius: 5px;
 }
 
-/*.heart-bottom {
+.heart-bottom {
   height: 45px;
   width: 44px;
   transform: rotate(45deg);
@@ -191,7 +191,7 @@ body {
   border-bottom-left-radius: 25px;
 }
 
-.peace-container {
+/*.peace-container {
   display: flex;
 }
 
