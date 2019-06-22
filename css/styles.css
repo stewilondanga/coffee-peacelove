@@ -52,12 +52,12 @@ body {
   background: #820263;
 }
 
-/*.box-three {
+.box-three {
   background: #04A777;
   color: #FFC914;
 }
 
-.box-one,
+/*.box-one,
 .box-two,
 .box-three {
   display: flex;
