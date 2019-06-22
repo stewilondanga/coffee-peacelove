@@ -132,11 +132,11 @@ body {
   content: "love";
 }
 
-/*.box-two input[type="checkbox"]#checkbox-two+label::after {
+.box-two input[type="checkbox"]#checkbox-two+label::after {
   content: none;
 }
 
-.box-two input[type="checkbox"]#checkbox-two:checked+label::after {
+/*.box-two input[type="checkbox"]#checkbox-two:checked+label::after {
   content: "peace";
 }
 
