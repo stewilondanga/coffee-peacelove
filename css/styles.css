@@ -110,12 +110,12 @@ body {
   position: absolute;
 }
 
-/*.box-one label::after{
+.box-one label::after {
   top: 3px;
   left: 2px;
 }
 
-.box-two label::after{
+/*.box-two label::after{
   top: 5px;
 }
 
