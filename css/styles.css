@@ -242,7 +242,7 @@ body {
   display: flex;
 }
 
-/*.coffee-cup {
+.coffee-cup {
   position: absolute;
   height: 42px;
   width: 37px;
@@ -256,7 +256,7 @@ body {
   border-top-right-radius: 2px;
 }
 
-.coffee {
+/*.coffee {
   position: relative;
   height: 37px;
   width: 33px;
