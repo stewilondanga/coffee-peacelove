@@ -128,11 +128,11 @@ body {
   content: none;
 }
 
-/*.box-one input[type="checkbox"]#checkbox-one:checked+label::after {
+.box-one input[type="checkbox"]#checkbox-one:checked+label::after {
   content: "love";
 }
 
-.box-two input[type="checkbox"]#checkbox-two+label::after {
+/*.box-two input[type="checkbox"]#checkbox-two+label::after {
   content: none;
 }
 
