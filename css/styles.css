@@ -72,16 +72,16 @@ body {
   opacity: 0;
 }
 
-/*.box-one label::before,
+.box-one label::before,
 .box-two label::before,
-.box-three label::before{
+.box-three label::before {
   content: "";
   display: block;
   height: 45px;
   width: 45px;
 }
 
-.box-one label::after{
+/*.box-one label::after{
   content:"love";
   display: inline-block;
   height: 40px;
