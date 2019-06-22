@@ -33,7 +33,7 @@ body {
   align-items: center;
 }
 
-/*.box {
+.box {
   height: 100px;
   width: 100px;
   background: white;
@@ -44,7 +44,7 @@ body {
   box-shadow: 0 0 10px black;
 }
 
-.box-one {
+/*.box-one {
   background: #D64F4F;
 }
 
