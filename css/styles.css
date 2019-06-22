@@ -115,13 +115,14 @@ body {
   left: 2px;
 }
 
-/*.box-two label::after{
+.box-two label::after {
   top: 5px;
 }
 
+/*
 .box-three label::after{
 /*   top: 3px; */
-left: 5px;
+/*left: 5px;
 }
 
 .box-one input[type="checkbox"]#checkbox-one+label::after {
