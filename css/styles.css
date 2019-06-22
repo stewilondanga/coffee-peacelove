@@ -284,7 +284,7 @@ body {
   }
 }
 
-/*.coffee-cup-handle {
+.coffee-cup-handle {
   position: relative;
   height: 25px;
   width: 12px;
@@ -294,7 +294,7 @@ body {
   border-radius: 5px 20px 50px 5px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
