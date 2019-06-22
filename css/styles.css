@@ -88,14 +88,14 @@ body {
   width: 50px;
 }
 
-/*.box-two label::after{
-  content:"peace";
+.box-two label::after {
+  content: "peace";
   display: inline-block;
   height: 40px;
   width: 50px;
 }
 
-.box-one label,
+/*.box-one label,
 .box-two label,
 .box-three label{
   position: relative;
