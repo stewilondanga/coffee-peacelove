@@ -1,3 +1,8 @@
+body {
+  background: #2F3544;
+  font-family: 'Dancing Script', cursive;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,10 +26,6 @@
   height: 1.5em;
 }
 
-body {
-  background: #2F3544;
-  font-family: 'Dancing Script', cursive;
-}
 
 /* p {
   color: #434956;
@@ -131,37 +132,36 @@ body {
 
 .box-three label::after{
 /*   top: 3px; */
-  left: 5px;
+left: 5px;
 }
 
-.box-one input[type="checkbox"]#checkbox-one + label::after{
+.box-one input[type="checkbox"]#checkbox-one+label::after {
   content: none;
 }
 
-.box-one input[type="checkbox"]#checkbox-one:checked + label::after {
+.box-one input[type="checkbox"]#checkbox-one:checked+label::after {
   content: "love";
 }
 
-.box-two input[type="checkbox"]#checkbox-two + label::after{
+.box-two input[type="checkbox"]#checkbox-two+label::after {
   content: none;
 }
 
-.box-two input[type="checkbox"]#checkbox-two:checked + label::after {
+.box-two input[type="checkbox"]#checkbox-two:checked+label::after {
   content: "peace";
 }
 
-.box-three input[type="checkbox"]#checkbox-three + label::after{
+.box-three input[type="checkbox"]#checkbox-three+label::after {
   content: none;
 }
 
-.box-three input[type="checkbox"]#checkbox-three:checked + label::after {
+.box-three input[type="checkbox"]#checkbox-three:checked+label::after {
   content: "coffee";
 }
 
 /* .checkbox-one input[type="checkbox"]:focus + label::before {
   outline: pink auto 2px;
 } */
-
 /* css for the graphics */
 /*
 .heart {
