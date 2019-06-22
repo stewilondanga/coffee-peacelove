@@ -136,11 +136,11 @@ body {
   content: none;
 }
 
-/*.box-two input[type="checkbox"]#checkbox-two:checked+label::after {
+.box-two input[type="checkbox"]#checkbox-two:checked+label::after {
   content: "peace";
 }
 
-.box-three input[type="checkbox"]#checkbox-three+label::after {
+/*.box-three input[type="checkbox"]#checkbox-three+label::after {
   content: none;
 }
 
