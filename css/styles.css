@@ -294,12 +294,12 @@ body {
   border-radius: 5px 20px 50px 5px;
 }
 
-/*.containers {
+.containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
