@@ -144,7 +144,7 @@ body {
   content: none;
 }
 
-/*.box-three input[type="checkbox"]#checkbox-three:checked+label::after {
+.box-three input[type="checkbox"]#checkbox-three:checked+label::after {
   content: "coffee";
 }
 
