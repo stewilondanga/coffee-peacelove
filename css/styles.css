@@ -238,11 +238,11 @@ body {
   border-bottom-left-radius: 25px;
 }
 
-/*.coffee-container {
+.coffee-container {
   display: flex;
 }
 
-.coffee-cup {
+/*.coffee-cup {
   position: absolute;
   height: 42px;
   width: 37px;
