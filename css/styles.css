@@ -95,13 +95,13 @@ body {
   width: 50px;
 }
 
-/*.box-one label,
+.box-one label,
 .box-two label,
-.box-three label{
+.box-three label {
   position: relative;
 }
 
-.box-one label::before,
+/*.box-one label::before,
 .box-one label::after,
 .box-two label::before,
 .box-two label::after,
